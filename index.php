@@ -20,9 +20,7 @@
             box-sizing: border-box;
         }
         html,body{
-            /* font-family: 'Kanit', sans-serif; */
-            font-size: 16px;
-            font-family: 'Poppins', sans-serif;
+
         }
         :root{
             --primary-light: rgb(230, 230, 230);
@@ -133,7 +131,7 @@
         
         /* Home Section */
         #home{
-            background: url('image/bg2.jpg');
+            background: url("image/bg2.jpg");
             background-position: center;
             background-repeat: no-repeat;
             background-size: cover;
